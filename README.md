@@ -10,4 +10,4 @@ Steps to generate tidy data:
    setwd("F:/Coursera/Working Directory/UCI HAR Dataset")
    source("run_analysis.R")
 
-4. Wait for a minute and the tidy data files(1st_tidy_data.txt and 2nd_tidy_data.txt) will be generated in the work directory.
+4. Wait for a minute and the tidy data file(tidy_data.txt) will be generated in the work directory.
